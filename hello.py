@@ -1,5 +1,5 @@
 print('hello git')
-print('one line')
+print('new one line')
 print('new line 2')
 print('line 3')
 print('line 4')
